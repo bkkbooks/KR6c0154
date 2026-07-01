@@ -1,0 +1,83 @@
+canonical_identifier: bkk:krp/KR6c0154/v1
+canonical_location: https://kanripo.org/bkk/KR6c0154/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 般若心經解義節要
+  identifiers:
+    alt_id:
+    - X26n0535
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0535.xml
+    old_id: X26n0535
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0154_000.yaml, hash: 'sha256:80d159e22dc43c8be27f2c01a5978bcd6f73994e468d279bebe84c74359f0cff'}
+  - {seq: 1, filename: KR6c0154_001.yaml, hash: 'sha256:4400ffc84680d1b8dbbfbd73b9478c6a735005753f7b36a8635bb81f59e1c737'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0154_000.markers.yaml, hash: 'sha256:df01af2469a9577cb9b52bd5927c5f93483022753dfe6a092fb346f3f413fa63'}
+  - {seq: 1, role: markers, filename: assets/KR6c0154_001.markers.yaml, hash: 'sha256:459e62a202fbc7bdc3525a93c2f4e5c9b977ba5fa43ee6032aa46ec27d176e91'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0154_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 535-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0154_X_000-mulu-2
+    span:
+    - front
+    - 12
+    - 12
+  label: 引用諸家解義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0154_X_000-mulu-3
+    span:
+    - front
+    - 87
+    - 87
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0154_X_000-mulu-4
+    span:
+    - front
+    - 244
+    - 244
+  label: 般若波羅蜜多心經解義節要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0154_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7055
+  label: 般若波羅蜜多心經解義節要
+  type: juan
+  level: 1
+hash: sha256:ea09b03302334b32d5cff75c28162063b16bacb38cec504a5528e02c9967442c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
