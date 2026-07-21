@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0154_000-X.yaml, hash: 'sha256:d30e66671a96ddd0c77da6327dfd6f6ac62ee20aff02bb03f8f773cc3a4661ce'}
+  - {seq: 0, filename: KR6c0154_000-X.yaml, hash: 'sha256:1e160798d1ee01250f6b3d2e33995ce5ac158eaa295f5ab7255e56e72df19097'}
   - {seq: 1, filename: KR6c0154_001-X.yaml, hash: 'sha256:5776e9ff59b74c600913a036140bd68c13393132d471771b3795ae75e0f1bed2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0154_000-X.markers.yaml, hash: 'sha256:db7f5b600180178c12ff29e61f42d89633b49ffa8d98354eeeebb8202fd30de0'}
+  - {seq: 0, role: markers, filename: assets/KR6c0154_000-X.markers.yaml, hash: 'sha256:9287d9f91939fe98d23738156a023bb08fee7e1811bd51bcc734ebca6988ef77'}
   - {seq: 1, role: markers, filename: assets/KR6c0154_001-X.markers.yaml, hash: 'sha256:e4ad84ab39c1ffa1a0a290339feb2aa836a460a7456a31e38c0e46a27f7d0e5b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0154_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 535-A
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0154_X_000-mulu-2
     span:
-    - front
+    - body
     - 12
     - 12
   label: 引用諸家解義
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0154_X_000-mulu-3
     span:
-    - front
+    - body
     - 87
     - 87
   label: 序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0154_X_000-mulu-4
     span:
-    - front
+    - body
     - 244
     - 244
   label: 般若波羅蜜多心經解義節要
@@ -75,4 +75,4 @@ table_of_contents:
   label: 般若波羅蜜多心經解義節要
   type: juan
   level: 1
-hash: sha256:e02f80e6451010b7e6a13a0abccbdafa6d43cc5c0fb49985a143c0eeb23fda0a
+hash: sha256:bbaee0563c1dc8ea563a4fc453b6577a04921bb87e0760be4a5d652c32035eaf

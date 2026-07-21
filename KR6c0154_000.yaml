@@ -1,6 +1,6 @@
 canonical_identifier: bkk:krp/KR6c0154/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 般若波羅蜜多心經解義節要引用諸家解義唐三藏法師玄奘奉詔譯唐賢首國師法藏疏宋孤山沙門知圓疏元古雲沙門元粹注元佛海沙門性證注大明天界禪寺住持宗泐奉敕注解大明翰林學士潛溪宗景濂文句佛者覺也覺自性也其法繇戒而定而慧外不著相內不著空真見本來面目虗靈要妙清淨圓融然後可以應用無染而了出世間一大公案又憫群生塵勞障重煩惱根深往往認賊為子迷妄為真故説此經以解脫之其文古其義奧其語約而其指趣綜括無遺豫燕處翛然愛閲此經病諸家解義之繁乃掇其精切者録之將以俟得佛書之三昧者質焉嘉靖癸巳夏五月既望無念居士書于紫微華下
   hash: sha256:3ee05b8149cfe0f28bb98e41741ab6ff26ea2fa00412c7fa054590410b5d5e96
   markers:
@@ -8,9 +8,6 @@ front:
   - {type: 其他, offset: 12, content: 引用諸家解義, id: KR6c0154_X_000-mulu-2, level: '2'}
   - {type: 序, offset: 87, content: 序, id: KR6c0154_X_000-mulu-3, level: '2'}
   - {type: 其他, offset: 244, content: 般若波羅蜜多心經解義節要, id: KR6c0154_X_000-mulu-4, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 般若心經解義節要
   edition:
@@ -19,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X26/X26n0535.xml
     old_id: X26n0535
-hash: sha256:bdc85f5cac571fd40f5581fcdb54ce5e3a3125447e43bb6fb3d02c090242b9f0
+hash: sha256:774a24a08bbb32394a34138dc2133367fcc190341fd22cf04879a272c75a7975
